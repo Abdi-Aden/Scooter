@@ -1,0 +1,17 @@
+
+
+As an (X), I want to (Y), by (Z).
+X == Kind of User.
+Y == Action
+z == Behavior
+
+
+
+
+As a User, I want to sighn up and login to the scooterApp, clicking on signup and login.
+As a User, I want to locate a scooter station near me.
+As a User, I want to scan a fully charged scooter and take it for a ride.
+As a User, I want to return the scooter to a nearby station.
+
+Class scooterApp
+
